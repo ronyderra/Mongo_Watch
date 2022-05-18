@@ -1,0 +1,14 @@
+{
+  "name": "explorer_listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "explorer_listener.js",
+  "scripts": {
+   "start": "nodemon explorer_listener.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.6.0"
+  }
+}
